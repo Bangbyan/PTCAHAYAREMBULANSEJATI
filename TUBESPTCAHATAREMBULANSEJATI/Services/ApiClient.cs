@@ -7,7 +7,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using TUBESPTCAHATAREMBULANSEJATI.Models;
 
-namespace TUBESPTCAHATAREMBULANSEJATI.Services
+namespace TUBESPTCAHATAREMBULANSEJATI.Services //namespace
 {
     public static class ApiClient
     {
