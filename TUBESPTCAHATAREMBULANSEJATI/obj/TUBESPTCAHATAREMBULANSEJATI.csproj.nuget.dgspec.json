@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\fairuz\\TUBESPTCAHATAREMBULANSEJATI\\TUBESPTCAHATAREMBULANSEJATI.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\KPL\\bangabyan\\TUBESPTCAHATAREMBULANSEJATI\\TUBESPTCAHATAREMBULANSEJATI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\fairuz\\TUBESPTCAHATAREMBULANSEJATI\\TUBESPTCAHATAREMBULANSEJATI.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\KPL\\bangabyan\\TUBESPTCAHATAREMBULANSEJATI\\TUBESPTCAHATAREMBULANSEJATI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\fairuz\\TUBESPTCAHATAREMBULANSEJATI\\TUBESPTCAHATAREMBULANSEJATI.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\KPL\\bangabyan\\TUBESPTCAHATAREMBULANSEJATI\\TUBESPTCAHATAREMBULANSEJATI.csproj",
         "projectName": "TUBESPTCAHATAREMBULANSEJATI",
-        "projectPath": "C:\\Users\\User\\Desktop\\fairuz\\TUBESPTCAHATAREMBULANSEJATI\\TUBESPTCAHATAREMBULANSEJATI.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\fairuz\\TUBESPTCAHATAREMBULANSEJATI\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\KPL\\bangabyan\\TUBESPTCAHATAREMBULANSEJATI\\TUBESPTCAHATAREMBULANSEJATI.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\KPL\\bangabyan\\TUBESPTCAHATAREMBULANSEJATI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

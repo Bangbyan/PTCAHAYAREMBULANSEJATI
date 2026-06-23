@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TUBESPTCAHATAREMBULANSEJATI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bc278c50b19fdcf764f2fddaf998284baccc996")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3373907b163dd68b6bd3ca7102b05102f3cc9e11")]
 [assembly: System.Reflection.AssemblyProductAttribute("TUBESPTCAHATAREMBULANSEJATI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TUBESPTCAHATAREMBULANSEJATI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

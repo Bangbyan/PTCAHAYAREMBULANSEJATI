@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace TUBESPTCAHATAREMBULANSEJATI.Models
 {
-    public class LoginDto
+    public class LoginDto //dto
     {
         public string Username { get; set; } = string.Empty;
         public string Password { get; set; } = string.Empty;
