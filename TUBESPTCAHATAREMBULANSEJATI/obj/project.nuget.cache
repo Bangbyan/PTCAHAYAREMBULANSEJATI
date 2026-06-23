@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m0qzUpFUjJA=",
+  "dgSpecHash": "r50HUc5LOEE=",
   "success": true,
-  "projectFilePath": "D:\\Semester 4\\KPL\\Tugas teori\\TUBES\\TUBESPTCAHATAREMBULANSEJATI\\TUBESPTCAHATAREMBULANSEJATI\\TUBESPTCAHATAREMBULANSEJATI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/muhammadfiqrianandahakin/Documents/TUBES/PTCAHAYAREMBULANSEJATI/TUBESPTCAHATAREMBULANSEJATI/TUBESPTCAHATAREMBULANSEJATI.csproj",
+  "expectedPackageFiles": [
+    "/Users/muhammadfiqrianandahakin/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.7/microsoft.windowsdesktop.app.ref.10.0.7.nupkg.sha512"
+  ],
   "logs": []
 }
