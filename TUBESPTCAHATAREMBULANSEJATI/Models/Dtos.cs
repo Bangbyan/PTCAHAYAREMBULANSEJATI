@@ -9,7 +9,7 @@ namespace TUBESPTCAHATAREMBULANSEJATI.Models
         public string Password { get; set; } = string.Empty;
     }
 
-    public class RegisterDto
+    public class RegisterDto //register
     {
         public string Username { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
